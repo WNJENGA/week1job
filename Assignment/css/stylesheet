@@ -1,6 +1,7 @@
 body {
 
     background-color:aquamarine;
+    font-size: medium;
 }
     
 
